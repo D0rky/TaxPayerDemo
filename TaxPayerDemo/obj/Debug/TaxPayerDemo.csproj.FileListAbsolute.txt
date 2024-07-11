@@ -1,0 +1,7 @@
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 4\TaxPayerDemo\TaxPayerDemo\bin\Debug\TaxPayerDemo.exe.config
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 4\TaxPayerDemo\TaxPayerDemo\bin\Debug\TaxPayerDemo.exe
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 4\TaxPayerDemo\TaxPayerDemo\bin\Debug\TaxPayerDemo.pdb
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 4\TaxPayerDemo\TaxPayerDemo\obj\Debug\TaxPayerDemo.csprojAssemblyReference.cache
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 4\TaxPayerDemo\TaxPayerDemo\obj\Debug\TaxPayerDemo.csproj.CoreCompileInputs.cache
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 4\TaxPayerDemo\TaxPayerDemo\obj\Debug\TaxPayerDemo.exe
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 4\TaxPayerDemo\TaxPayerDemo\obj\Debug\TaxPayerDemo.pdb
